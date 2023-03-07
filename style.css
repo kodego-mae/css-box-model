@@ -25,7 +25,8 @@
   background-color: rgb(255, 197, 143);
   padding: 32px 32px;
   width: 300px;
-  margin-left: 600px;
+  margin-left: auto;
+  margin-right: 20px;
   border: solid rgb(162, 3, 3);
 }
 .card{
