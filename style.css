@@ -28,9 +28,33 @@
   margin-left: 600px;
   border: solid rgb(162, 3, 3);
 }
+.card{
 
-.card {
-  background-color: rgb(13, 133, 253);
+  background-color: rgb(195, 221, 255);
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px;
+  margin: 16px 8px;
 
+}
+
+.content{
+  background-color: rgb(195, 221, 255);
+  padding: 8px;
+  margin: 16px 8px;
+  
+}
+
+.and{
+  background-color: rgb(195, 221, 255);
+  text-align: center;
+  margin: 16px 8px;
+}
+.button-container{
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding:8px;
+  margin: 8px 24px;
+  border-radius: 2px solid;
 
 }
